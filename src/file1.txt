@@ -1,0 +1,2 @@
+Name: Raul, Age: 32, Weight: 82.00
+/r/n
